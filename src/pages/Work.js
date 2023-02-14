@@ -14,32 +14,20 @@ function Work() {
             <tr>
                 <td>Basic Profile page</td>
                 <td>https://light1377.github.io/Assignment2-Portfolio/</td>
-
             </tr>
             <tr>
                 <td>Console finances</td>
                 <td>"https://light1377.github.io/Console-Finances/</td>
-
             </tr>
             <tr>
                 <td>README generator</td>
                 <td>"https://light1377.github.io/Assignment11-READMEgenerator/</td>
-
             </tr>
 
         </tbody>
     </Table>
 
-
-
-
-
-
-
-
-
-
-    );
+);
 }
 
 export default Work;

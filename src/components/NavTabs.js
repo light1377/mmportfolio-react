@@ -17,15 +17,19 @@ function NavTabs(props) {
             <Nav.Link href="#about" onClick={() => props.handlePageChange("About")}>About</Nav.Link>
 
             <Nav.Link href="#work" onClick={() => props.handlePageChange("Work")}>Work</Nav.Link>
+
             <Nav.Link href="#resume" onClick={() => props.handlePageChange("Resume")}>Resume</Nav.Link>
+
             <Nav.Link href="#contact" onClick={() => props.handlePageChange("Contact")}>Contact</Nav.Link>
+
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">github</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
+              <NavDropdown.Item href="https://github.com/light1377">github</NavDropdown.Item>
+
+              <NavDropdown.Item href="https://www.linkedin.com/in/moral-m-55a3191a3/sta">
                 LinkedIn
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Stack overflow</NavDropdown.Item>
-              <NavDropdown.Divider />
+
+
 
             </NavDropdown>
           </Nav>
