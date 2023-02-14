@@ -9,3 +9,12 @@ In addition to time challenges, I also struggled a lot with using react bootstra
 
 ## testing:
 Run "npm test" in the termianl after installing dependencies needed.
+
+website:
+https://light1377.github.io/mmportfolio-react/
+
+github repository:
+https://github.com/light1377/mmportfolio-react
+
+screenshot:
+<img src="./Screenshot 2023-02-14 at 00-20-07 React App.png">
